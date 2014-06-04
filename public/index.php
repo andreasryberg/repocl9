@@ -1,3 +1,3 @@
 <?php
-echo "välkommen till andreas PHP sida";
+echo "1";
 ?>
