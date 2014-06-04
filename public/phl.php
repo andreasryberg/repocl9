@@ -10,7 +10,7 @@ $x=5;
 $y=6;
 $z=$x+$y;
 
-if ($z>1) {
+if ($z>20) {
   echo "Tjena Joel!";
 }
 
